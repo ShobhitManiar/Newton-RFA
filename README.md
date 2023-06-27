@@ -25,8 +25,7 @@ git clone https://github.com/ShobhitManiar/Newton-RFA.git
 2. Change into the project directory:
 
 ```bash
-cd root-finding-newton-raphson
-```
+cd Newton-RFA
 
 3. Compile and run the program:
 
