@@ -19,7 +19,7 @@ Follow the steps below to get started with this program:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/root-finding-newton-raphson.git
+git clone https://github.com/ShobhitManiar/Newton-RFA.git
 ```
 
 2. Change into the project directory:
