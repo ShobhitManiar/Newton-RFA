@@ -47,8 +47,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code as per the terms of this license.
 
-### Acknowledgments
-
-- The implementation of Newton's method in this program is based on the algorithm described in [Numerical Recipes](https://www.nr.com/), by William H. Press, Saul A. Teukolsky, William T. Vetterling, and Brian P. Flannery.
-
 Thank you for your interest in this project. If you have any questions or need further assistance, please feel free to contact us.
